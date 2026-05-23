@@ -6,16 +6,16 @@ button {
     color: #332200;
     padding: 10px;
     border-radius: 4px;
-    width: 25%;
+    width: 150px;
     
     font-size: medium;
 }
 div {
     background: #111;
     border-radius: 4px;
-    margin: 3%;
-    padding: 3%;
-    padding-top: 1%;
+    margin:20px;
+    padding: 20px;
+    padding-top: 10px;
 }
 h2{
     color: white ;
